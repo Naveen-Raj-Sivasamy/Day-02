@@ -1,1 +1,4 @@
-console.log("Welcome to Day 2 session")
+var a = 5;
+var b = 100;
+
+console.log(a+b)
