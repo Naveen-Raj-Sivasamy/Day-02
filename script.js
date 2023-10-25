@@ -1,4 +1,4 @@
-var a = 5;
+var a = 5999;
 var b = 100;
 
 console.log(a+b)
