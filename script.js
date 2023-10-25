@@ -1,1 +1,1 @@
-console.log(Welcome to Day 2 session)
+console.log("Welcome to Day 2 session")
